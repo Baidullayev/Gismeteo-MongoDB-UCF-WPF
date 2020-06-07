@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GismeteoClient", "GismeteoClient\GismeteoClient.csproj", "{701F5DEF-944A-4D66-9479-6DCAF869FA38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{701F5DEF-944A-4D66-9479-6DCAF869FA38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{701F5DEF-944A-4D66-9479-6DCAF869FA38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{701F5DEF-944A-4D66-9479-6DCAF869FA38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{701F5DEF-944A-4D66-9479-6DCAF869FA38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4E11F03-A466-4553-BE4C-6C95CC4CB928}
+	EndGlobalSection
+EndGlobal
